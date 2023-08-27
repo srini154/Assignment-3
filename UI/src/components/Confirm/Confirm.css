@@ -1,0 +1,14 @@
+.Container {
+  border-radius: 10px;
+  color: rgb(73, 173, 73);
+  padding-top: 30%;
+}
+p {
+  text-align: center;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.sucess-icon {
+  height: 100px;
+  width: 100px;
+}
